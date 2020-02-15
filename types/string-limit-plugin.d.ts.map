@@ -1,0 +1,1 @@
+{"version":3,"file":"string-limit-plugin.d.ts","sourceRoot":"","sources":["../src/string-limit-plugin.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,KAAK,CAAC;AAGrC;;;;GAIG;AACH,MAAM,CAAC,OAAO,OAAO,iBAAiB;WACtB,OAAO,CAAC,GAAG,EAAE,cAAc;CAK1C"}
